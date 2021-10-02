@@ -1,0 +1,12 @@
+First pc game
+
+Spacewar :- The first computer game is generally assumed to be the game Spacewar!, developed in 1962 at MI
+T (Stephen Russell a.o.). Spacewar originally ran on a PDP-1 computer the size of a large car. B
+y today’s standards, the graphics are rather primitive, although less primitive than many games form the 1980’s.
+
+
+first mobile game
+
+
+Snake :-  The concept originated in the 1976 two-player arcade game Blockade from Gremlin Industries, and the ease of implementing Snake has 
+led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms.
